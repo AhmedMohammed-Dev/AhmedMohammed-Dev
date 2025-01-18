@@ -31,7 +31,7 @@
 <hr/>
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/AhmedMohammed-Dev/count.svg" alt="Visitor Count" style="background-color: #000000; padding: 5px; border-radius: 5px;"/>
+    <img src="https://img.shields.io/badge/PROFILE%20VIEWS-1-EC008C?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views"/>
 </div>
 
 <br/>
