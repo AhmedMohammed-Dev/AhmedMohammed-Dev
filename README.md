@@ -30,9 +30,6 @@
 
 <hr/>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=AhmedMohammed-Dev&label=PROFILE%20VIEWS&color=0969da&style=flat-square&labelColor=24292e" alt="Profile Views"/>
-</div>
 
 <br/>
  
@@ -45,6 +42,10 @@
 
 <br/>
 <hr/>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=AhmedMohammed-Dev&label=PROFILE%20VIEWS&color=0969da&style=flat-square&labelColor=24292e" alt="Profile Views"/>
+</div>
+<br/>
 
 <div align="center">
     <h3>Connect with me</h3>
