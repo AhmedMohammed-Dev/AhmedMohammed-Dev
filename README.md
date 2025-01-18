@@ -31,7 +31,7 @@
 <hr/>
 
 <div align="center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedMohammed-Dev&count_bg=545d68&title_bg=24292e&icon=github.svg&icon_color=ffffff&title=PROFILE+VIEWS&edge_flat=true" alt="Profile Views"/>
+    <img src="https://profile-counter.glitch.me/AhmedMohammed-Dev/count.svg" alt="Visitor Count" style="background-color: #24292e; padding: 5px; border-radius: 3px;"/>
 </div>
 
 <br/>
