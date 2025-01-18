@@ -31,7 +31,7 @@
 <hr/>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/PROFILE%20VIEWS-1-545d68?style=for-the-badge&logo=eye&logoColor=white&labelColor=24292e" alt="Profile Views"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedMohammed-Dev&count_bg=545d68&title_bg=24292e&icon=github.svg&icon_color=ffffff&title=PROFILE+VIEWS&edge_flat=true" alt="Profile Views"/>
 </div>
 
 <br/>
