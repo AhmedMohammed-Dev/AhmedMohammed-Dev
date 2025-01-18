@@ -31,7 +31,7 @@
 <hr/>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/PROFILE%20VIEWS-1-EC008C?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/PROFILE%20VIEWS-1-EC008C?style=for-the-badge&logo=eye&logoColor=white&labelColor=24292e" alt="Profile Views"/>
 </div>
 
 <br/>
