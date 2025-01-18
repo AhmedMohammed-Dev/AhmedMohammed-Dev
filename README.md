@@ -31,12 +31,7 @@
 <hr/>
 
 <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=AhmedMohammed-Dev&label=Profile%20Views&color=11&icon=0&pretty=true" 
-         style="background: linear-gradient(to right, #EC008C, #fc6767); 
-                padding: 5px 10px; 
-                border-radius: 5px;
-                box-shadow: 0 2px 5px rgba(0,0,0,0.2);"
-    />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedMohammed-Dev&count_bg=%23EC008C&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views"/>
 </div>
 
 <br/>
