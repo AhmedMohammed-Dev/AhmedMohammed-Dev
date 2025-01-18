@@ -29,6 +29,18 @@
 </div>
 
 <hr/>
+
+<div align="center">
+    <a href="https://u8views.com/github/AhmedMohammed-Dev">
+        <img src="https://u8views.com/api/v1/github/profiles/AhmedMohammed-Dev/views/day-week-month-total-count.svg" alt="Visitor Count"/>
+    </a>
+</div>
+
+<div align="center">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedMohammed-Dev&count_bg=%23EC008C&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VISITORS&edge_flat=true" width="250px" alt="Visitors Count"/>
+</div>
+
+<br/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -39,20 +51,6 @@
 
 <br/>
 <hr/>
-<div align="center">
-    <img src="https://profile-counter.glitch.me/AhmedMohammed-Dev/count.svg" alt="Visitor Count" 
-        style="background: linear-gradient(to right, #EC008C, #fc6767); 
-               padding: 5px 10px; 
-               border-radius: 5px;
-               box-shadow: 0 2px 5px rgba(0,0,0,0.2);"
-    />
-</div>
-
-<br/>
-
-
-<hr/>
-
 
 <div align="center">
     <h3>Connect with me</h3>
