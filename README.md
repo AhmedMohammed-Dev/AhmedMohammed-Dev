@@ -31,7 +31,7 @@
 <hr/>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/PROFILE%20VIEWS-1-0969da?style=flat-square&labelColor=24292e" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=AhmedMohammed-Dev&label=PROFILE%20VIEWS&color=0969da&style=flat-square&labelColor=24292e" alt="Profile Views"/>
 </div>
 
 <br/>
