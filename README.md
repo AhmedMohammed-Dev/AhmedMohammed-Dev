@@ -33,8 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,git,github,vscode" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" /><br>
+    <img src="https://visitcount.itsvg.in/api?id=AhmedMohammed-Dev&label=Profile%20Views&color=11&icon=5&pretty=true" alt="Visitor Count"/>
 </div>
 
 <br/>
