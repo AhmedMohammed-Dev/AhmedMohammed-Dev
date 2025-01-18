@@ -29,12 +29,6 @@
 </div>
 
 <hr/>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=AhmedMohammed-Dev&style=for-the-badge&color=EC008C&label=Profile+Views" alt="Profile Views"/>
-</div>
-
-<br/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -45,6 +39,20 @@
 
 <br/>
 <hr/>
+<div align="center">
+    <img src="https://profile-counter.glitch.me/AhmedMohammed-Dev/count.svg" alt="Visitor Count" 
+        style="background: linear-gradient(to right, #EC008C, #fc6767); 
+               padding: 5px 10px; 
+               border-radius: 5px;
+               box-shadow: 0 2px 5px rgba(0,0,0,0.2);"
+    />
+</div>
+
+<br/>
+
+
+<hr/>
+
 
 <div align="center">
     <h3>Connect with me</h3>
