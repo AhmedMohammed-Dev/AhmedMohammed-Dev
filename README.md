@@ -7,11 +7,13 @@
 
 <div align="center">
  
- 🔭 I'm currently working on **Web Development Projects**
+🔭 I'm currently working on **Web Development Projects**
  
- 🌱 I'm currently learning **Advanced Frontend & Web Technologies**
+🌱 I'm currently learning **Advanced Frontend & Web Technologies**
+ 
+🛡️ I'm passionate about **Information Security & Ethical Hacking**
 
- ⚡ Fun fact **Turning coffee into code ☕💻**
+⚡ Fun fact **Turning coffee into code ☕💻**
 </div>
  
 <div align="center"> 
