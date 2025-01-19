@@ -3,7 +3,6 @@
 </h1>
 
 <h3 align="center">A passionate Frontend & Full Stack Developer from Egypt 🇪🇬</h3>
-
 <br/>
 
 <div align="center">
@@ -12,9 +11,8 @@
  
  🌱 I'm currently learning **Advanced Frontend & Web Technologies**
 
-⚡ Fun fact **Turning coffee into code ☕💻**
-
- </div>
+ ⚡ Fun fact **Turning coffee into code ☕💻**
+</div>
  
 <div align="center"> 
   <a href="mailto:ahmedmohammedmohammedibrahim1@gmail.com">
@@ -29,8 +27,6 @@
 </div>
 
 <hr/>
-
-
 <br/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -42,22 +38,22 @@
 
 <br/>
 <hr/>
+
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=AhmedMohammed-Dev&label=PROFILE%20VIEWS&color=0969da&style=flat-square&labelColor=24292e" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=PROFILE%20VIEWS&color=0969da&style=flat-square&labelColor=24292e" alt="Profile Views"/>
 </div>
+
 <br/>
 
 <div align="center">
     <h3>Connect with me</h3>
-    <a href="https://github.com/AhmedMohammed-Dev" target="_blank">
+    <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://www.linkedin.com/in/ahmedmohammedmohammed" target="_blank">
+    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://ahmedmohammed-dev.github.io/" target="_blank">
+    <a href="https://YOUR-PORTFOLIO-URL" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
 </div>
-
-<br/>
