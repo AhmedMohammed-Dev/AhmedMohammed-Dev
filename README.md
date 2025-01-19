@@ -40,7 +40,7 @@
 <hr/>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=PROFILE%20VIEWS&color=0969da&style=flat-square&labelColor=94292e" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=PROFILE%20VIEWS&color=0969da&style=flat-square&labelColor=24292e" alt="Profile Views"/>
 </div>
 
 <br/>
