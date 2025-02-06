@@ -49,13 +49,13 @@
 
 <div align="center">
     <h3>Connect with me</h3>
-    <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
+    <a href="https://github.com/AhmedMohammed-Dev" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <a href="https://www.linkedin.com/in/ahmedmohammedmohammed" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://YOUR-PORTFOLIO-URL" target="_blank">
+    <a href="https://ahmedmohammed-dev.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
 </div>
